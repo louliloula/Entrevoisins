@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_favorite_text_view_7" type="id" />
+    <item name="activity_favorite_first_img" type="id" />
+    <item name="activity_favorite_image_view_3" type="id" />
+    <item name="activity_favorite_image_view_5" type="id" />
+    <item name="activity_favorite_text_view_4" type="id" />
+    <item name="activity_favorite_image_view_4" type="id" />
+    <item name="activity_favorite_text_view_5" type="id" />
+    <item name="activity_favorite_text_view_6" type="id" />
+    <item name="activity_favorite_text_view_9" type="id" />
+    <item name="activity_favorite_text_view_10" type="id" />
+    <item name="favorite_neighbour_activity" type="id" />
+    <item name="favorite_neighbour" type="id" />
+</resources>
